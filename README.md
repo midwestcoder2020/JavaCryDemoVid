@@ -1,5 +1,5 @@
 # JavaCry
- ## java based encryption malware based off wannacry. Thsi version targets all files in the DCIM folder with a trojan appearance and persistence.
+ ## java based encryption malware based off wannacry. This version targets all files in the DCIM folder with a trojan appearance and persistence.
  
  # See upoloaded video for controlled demonstration
  
